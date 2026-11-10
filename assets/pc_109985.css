@@ -1,0 +1,104 @@
+/*     1922885 : 장문 텍스트      */
+@font-face {
+    font-family: 'NaturalSans';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+.textarea__1922885__ p {
+	display:block;margin:0;padding:0; font-family: 'NaturalSans';
+	font-size:26px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.3em;
+}
+.textarea__1922885__ p span{ color:#f47e21;}
+
+@media all and (min-width:1024px){
+	.textarea__1922885__ p {font-size:40px}
+}
+
+/*     1922895 : 공백      */
+.empty__1922895__ {box-sizing:border-box;display:block;position:relative;width:100%;height:20px}
+.empty__1922895__.build_edit_mode {min-height:10px;border:1px dashed red}
+.empty__1922895__.build_edit_mode:before {content:'Blank';display:block;position:absolute;top:50%;left:0;right:0;margin-top:-10px;padding:5px 0;font-size:13px;color:red;text-align:center;line-height:1}
+
+@media all and (min-width:768px){
+	.empty__1922895__ {height:20px}
+}
+
+@media all and (min-width:1024px){
+	.empty__1922895__ {height:30px}
+}
+
+/*     1922905 : 장문 텍스트      */
+.textarea__1922905__ p {
+	display:block;margin:0 auto;padding:0;
+	font-size:16px;font-weight:normal;color:#2d2d2d;letter-spacing:-0.05em;line-height:1.5em;word-break:keep-all;
+}
+
+@media all and (min-width:1024px){
+	.textarea__1922905__ p {font-size:18px; max-width:830px;}
+}
+
+/*     1922975 : 공백      */
+.empty__1922975__ {box-sizing:border-box;display:block;position:relative;width:100%;height:35px}
+.empty__1922975__.build_edit_mode {min-height:10px;border:1px dashed red}
+.empty__1922975__.build_edit_mode:before {content:'Blank';display:block;position:absolute;top:50%;left:0;right:0;margin-top:-10px;padding:5px 0;font-size:13px;color:red;text-align:center;line-height:1}
+
+@media all and (min-width:768px){
+	.empty__1922975__ {height:35px}
+}
+
+@media all and (min-width:1024px){
+	.empty__1922975__ {height:70px}
+}
+
+/*     1922965 : 아이콘형 리스트      */
+@font-face {
+	font-family:'icomoon_text_list';
+	src:url('icomoon_text_list_icomoon.eot');
+	src:url('icomoon_text_list_icomoon.eot#iefix') format('embedded-opentype'),
+		url('icomoon_text_list_icomoon.woff') format('woff'),
+		url('icomoon_text_list_icomoon.ttf') format('truetype'),
+		url('icomoon_text_list_icomoon.svg#icomoon_text_list') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+
+.text_list__1922965__ {background: #f8f8f8; padding: 20px; border-radius: 10px;}
+
+.text_list__1922965__ ul {display:inline-block;margin:0;padding:0;list-style:none;vertical-align:top}
+.text_list__1922965__ ul li {display:table;margin-top:5px;font-size:16px;line-height:1.5em}
+.text_list__1922965__ ul li:first-child {margin-top:0}
+.text_list__1922965__ ul li span {
+	display:table-cell;padding-right:10px;
+	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+.text_list__1922965__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
+.text_list__1922965__ ul li p {
+	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing:0;vertical-align:middle;
+ 	line-height: 1.6em; word-break: keep-all;
+}
+
+.text_list__1922965__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
+.text_list__1922965__.s_size_100 ul li span {padding-right:.5em;font-size:1em}
+.text_list__1922965__.s_size_150 ul li span {padding-right:.4em;font-size:1.5em;line-height:1em}
+.text_list__1922965__.s_size_200 ul li span {padding-right:.3em;font-size:2em;line-height:1em}
+.text_list__1922965__.s_size_250 ul li span {padding-right:.2em;font-size:2.5em;line-height:1em}
+
+@media all and (min-width:1024px){
+	.text_list__1922965__ {padding: 40px; border-radius: 20px;}
+	.text_list__1922965__ ul li {font-size:18px; line-height:1.7em;}
+}
+
+/*     1922915 : 공백      */
+.empty__1922915__ {box-sizing:border-box;display:block;position:relative;width:100%;height:50px}
+.empty__1922915__.build_edit_mode {min-height:10px;border:1px dashed red}
+.empty__1922915__.build_edit_mode:before {content:'Blank';display:block;position:absolute;top:50%;left:0;right:0;margin-top:-10px;padding:5px 0;font-size:13px;color:red;text-align:center;line-height:1}
+
+@media all and (min-width:768px){
+	.empty__1922915__ {height:50px}
+}
+
+@media all and (min-width:1024px){
+	.empty__1922915__ {height:70px}
+}
+
