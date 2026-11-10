@@ -1,14 +1,14 @@
 /*     1917024 : 장문 텍스트      */
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
 }
 
 .textarea__1917024__ p {
-	display:block;margin:0;padding:0; font-family: 'NaturalSans';
-	font-size:26px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.3em;
+	display:block;margin:0;padding:0; font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	font-size:26px;font-weight:bold;color:#2b2724;letter-spacing:-0.03em;line-height:1.3em;
 	text-align: center;
 }
 
@@ -68,7 +68,7 @@
 
 /*     1924375 : 블록 설정      */
 .block_option__1924375__ {display:table;width:100%}
-.block_option__1924375__ p {display:table-cell;height:100px;margin:0;background:#fafafa;color:#c40000;text-align:center;vertical-align:middle}
+.block_option__1924375__ p {display:table-cell;height:100px;margin:0;background:#f8f4ee;color:#c40000;text-align:center;vertical-align:middle}
 
 @media (max-width:1023px){
 	.row__1924375__ {padding: 60px 0px;}
@@ -81,14 +81,14 @@
 
 /*     1924385 : 장문 텍스트      */
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
 }
 .textarea__1924385__ p {
-	display:block;margin:0;padding:0;  font-family: 'NaturalSans';
-	font-size:18px;font-weight:bold;color:#2d2d2d;letter-spacing:-.03em;line-height:1.6em;
+	display:block;margin:0;padding:0;  font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	font-size:18px;font-weight:bold;color:#2b2724;letter-spacing:-.03em;line-height:1.6em;
 	word-break:keep-all;
 }
 
@@ -106,8 +106,8 @@
 .img_tile__1924395__ .figure img {max-width:100%; vertical-align:bottom;}
 .img_tile__1924395__ .caption {display:block; margin-top:0px; margin-left: 15px; text-align: left;}
 .img_tile__1924395__ .caption > span {display:block; line-height:1.4em;}
-.img_tile__1924395__ .caption > span.subject {font-weight:bold; color:#f5822a;}
-.img_tile__1924395__ .caption > span.content {margin-top:5px; color:#2d2d2d;}
+.img_tile__1924395__ .caption > span.subject {font-weight:bold; color:#b86a3c;}
+.img_tile__1924395__ .caption > span.content {margin-top:5px; color:#2b2724;}
 
 .text_sml__1924395__ .caption > span.subject {font-size:14px;}
 .text_sml__1924395__ .caption > span.content {font-size:13px;}
@@ -239,7 +239,7 @@
 
 /*     1924425 : 셀 설정      */
 .cell_option__1924425__ {display:table;width:100%}
-.cell_option__1924425__ p {display:table-cell;height:100px;margin:0;background:#fafafa;color:#c40000;text-align:center;vertical-align:middle}
+.cell_option__1924425__ p {display:table-cell;height:100px;margin:0;background:#f8f4ee;color:#c40000;text-align:center;vertical-align:middle}
 
 @media (max-width:767px){
 	.col__1924425__ {}
@@ -255,7 +255,7 @@
 
 /*     1924435 : 셀 설정      */
 .cell_option__1924435__ {display:table;width:100%}
-.cell_option__1924435__ p {display:table-cell;height:100px;margin:0;background:#fafafa;color:#c40000;text-align:center;vertical-align:middle}
+.cell_option__1924435__ p {display:table-cell;height:100px;margin:0;background:#f8f4ee;color:#c40000;text-align:center;vertical-align:middle}
 
 @media (max-width:767px){
 	.col__1924435__ {}
@@ -273,15 +273,15 @@
 @import url('//cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
 
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
 }
 
 .textarea__1924445__ p {
-	display:block;margin:0;padding:0; font-family: 'NaturalSans';
-	font-size:20px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.4em;
+	display:block;margin:0;padding:0; font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	font-size:20px;font-weight:bold;color:#2b2724;letter-spacing:-0.03em;line-height:1.4em;
 	word-break: keep-all;
 }
 
@@ -338,7 +338,7 @@
 
 .textarea__1924485__ p {
 	display:block;margin:0;padding:0;
-	font-size:16px;font-weight:normal;color:#2d2d2d;letter-spacing:-0.03em;line-height:1.4em;
+	font-size:16px;font-weight:normal;color:#2b2724;letter-spacing:-0.03em;line-height:1.4em;
 	word-break: keep-all;
 }
 
@@ -349,7 +349,7 @@
 
 /*     1924495 : 셀 설정      */
 .cell_option__1924495__ {display:table;width:100%}
-.cell_option__1924495__ p {display:table-cell;height:100px;margin:0;background:#fafafa;color:#c40000;text-align:center;vertical-align:middle}
+.cell_option__1924495__ p {display:table-cell;height:100px;margin:0;background:#f8f4ee;color:#c40000;text-align:center;vertical-align:middle}
 
 @media (max-width:767px){
 	.col__1924495__ {}
@@ -380,15 +380,15 @@
 @import url('//cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
 
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
 }
 
 .textarea__1924515__ p {
-	display:block;margin:0;padding:0; font-family: 'NaturalSans';
-	font-size:20px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.4em;
+	display:block;margin:0;padding:0; font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	font-size:20px;font-weight:bold;color:#2b2724;letter-spacing:-0.03em;line-height:1.4em;
 	word-break: keep-all;
 }
 
@@ -415,7 +415,7 @@
 .text_horizontal__1924535__ .title__1924535__ {display:contents;
 	box-sizing:border-box;float:left;min-width:180px;margin:0;padding:0 20px 0 0;font-size:18px;font-weight:bold;color:#2c2c2c;line-height:1.5em;letter-spacing:0; word-break: keep-all;
 }
-.text_horizontal__1924535__ .text__1924535__ {overflow:hidden;margin:0;padding:0;font-size:16px;color:#2d2d2d;line-height:1.5em;letter-spacing:0;margin-top:0px; word-break: keep-all;}
+.text_horizontal__1924535__ .text__1924535__ {overflow:hidden;margin:0;padding:0;font-size:16px;color:#2b2724;line-height:1.5em;letter-spacing:0;margin-top:0px; word-break: keep-all;}
 
 .text_horizontal__1924535__ .text__1924535__ span{display:inline-block; font-size:16px;color:#fff;background:#8c8621;border-radius:50px;padding:0px 8px;}
 
@@ -441,9 +441,9 @@
 /*     1924555 : 제목&내용 가로형      */
 .text_horizontal__1924555__:after {content:'';display:block;clear:both}
 .text_horizontal__1924555__ .title__1924555__ {display:contents;
-	box-sizing:border-box;float:left;min-width:180px;margin:0;padding:0 20px 0 0;font-size:18px;font-weight:bold;color:#2d2d2d;line-height:1.5em;letter-spacing:0; word-break: keep-all;
+	box-sizing:border-box;float:left;min-width:180px;margin:0;padding:0 20px 0 0;font-size:18px;font-weight:bold;color:#2b2724;line-height:1.5em;letter-spacing:0; word-break: keep-all;
 }
-.text_horizontal__1924555__ .text__1924555__ {overflow:hidden;margin:0;padding:0;font-size:16px;color:#2d2d2d;line-height:1.5em;letter-spacing:0;margin-top:0px; word-break: keep-all;}
+.text_horizontal__1924555__ .text__1924555__ {overflow:hidden;margin:0;padding:0;font-size:16px;color:#2b2724;line-height:1.5em;letter-spacing:0;margin-top:0px; word-break: keep-all;}
 
 .text_horizontal__1924555__ .text__1924555__ span{display: inline-block; font-size:16px;color:#fff;background:rgb(44, 158, 222);border-radius:50px;padding:0px 8px;}
 
@@ -469,7 +469,7 @@
 
 .textarea__1924575__ p {
 	display:block;margin:0;padding:0;
-	font-size:16px;font-weight:normal;color:#2d2d2d;letter-spacing:-0.03em;line-height:1.4em;
+	font-size:16px;font-weight:normal;color:#2b2724;letter-spacing:-0.03em;line-height:1.4em;
 	word-break: keep-all;
 }
 
@@ -493,7 +493,7 @@
 
 /*     1924595 : 블록 설정      */
 .block_option__1924595__ {display:table;width:100%}
-.block_option__1924595__ p {display:table-cell;height:100px;margin:0;background:#fafafa;color:#c40000;text-align:center;vertical-align:middle}
+.block_option__1924595__ p {display:table-cell;height:100px;margin:0;background:#f8f4ee;color:#c40000;text-align:center;vertical-align:middle}
 
 @media (max-width:1023px){
 	.row__1924595__ {padding: 0px 0px;}
@@ -508,15 +508,15 @@
 @import url('//cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
 
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
 }
 
 .textarea__1924605__ p {
-	display:block;margin:0;padding:0; font-family: 'NaturalSans';
-	font-size:20px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.4em;
+	display:block;margin:0;padding:0; font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	font-size:20px;font-weight:bold;color:#2b2724;letter-spacing:-0.03em;line-height:1.4em;
 	word-break: keep-all;
 }
 
@@ -541,7 +541,7 @@
 /*     1924625 : 장문 텍스트      */
 .textarea__1924625__ p {
 	display:block;margin:0;padding:0;
-	font-size:16px;font-weight:normal;color:#2d2d2d;letter-spacing:-.03em;line-height:1.6em;
+	font-size:16px;font-weight:normal;color:#2b2724;letter-spacing:-.03em;line-height:1.6em;
 }
 
 @media all and (min-width:1024px){

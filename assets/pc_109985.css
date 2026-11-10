@@ -1,14 +1,14 @@
 /*     1922885 : 장문 텍스트      */
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
 }
 
 .textarea__1922885__ p {
-	display:block;margin:0;padding:0; font-family: 'NaturalSans';
-	font-size:26px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.3em;
+	display:block;margin:0;padding:0; font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	font-size:26px;font-weight:bold;color:#2b2724;letter-spacing:-0.03em;line-height:1.3em;
 }
 .textarea__1922885__ p span{ color:#f47e21;}
 
@@ -32,7 +32,7 @@
 /*     1922905 : 장문 텍스트      */
 .textarea__1922905__ p {
 	display:block;margin:0 auto;padding:0;
-	font-size:16px;font-weight:normal;color:#2d2d2d;letter-spacing:-0.05em;line-height:1.5em;word-break:keep-all;
+	font-size:16px;font-weight:normal;color:#2b2724;letter-spacing:-0.05em;line-height:1.5em;word-break:keep-all;
 }
 
 @media all and (min-width:1024px){
@@ -71,10 +71,10 @@
 .text_list__1922965__ ul li:first-child {margin-top:0}
 .text_list__1922965__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1922965__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1922965__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing:0;vertical-align:middle;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing:0;vertical-align:middle;
  	line-height: 1.6em; word-break: keep-all;
 }
 

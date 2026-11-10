@@ -50,7 +50,7 @@
 
 /*     1916424 : 장문 텍스트      */
 @font-face {
-    font-family: 'NaturalSans';
+    font-family:'Pretendard Variable','Pretendard','NaturalSans';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607201621@jayeonsans-medium/jayeonsans-medium/JayeonSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
@@ -58,8 +58,8 @@
 
 
 .textarea__1916424__ p {
-	display:block;margin:0;padding:0; font-family: 'NaturalSans';
-	max-width: 280px; font-size:26px;font-weight:bold;color:#1c1c1c;letter-spacing:-0.03em;line-height:1.3em;
+	display:block;margin:0;padding:0; font-family:'Pretendard Variable','Pretendard','NaturalSans';
+	max-width: 280px; font-size:26px;font-weight:bold;color:#2b2724;letter-spacing:-0.03em;line-height:1.3em;
 	word-break: keep-all;
 }
 
@@ -83,13 +83,13 @@
 /*     1916554 : 장문 텍스트      */
 .textarea__1916554__ p {
 	display:block;margin:0 auto;padding:0;
-	font-size:16px;font-weight:normal;color:#2d2d2d;letter-spacing:-0.05em;line-height:1.6em; text-align: left;word-break:keep-all;
+	font-size:16px;font-weight:normal;color:#2b2724;letter-spacing:-0.05em;line-height:1.6em; text-align: left;word-break:keep-all;
 }
 
 @media all and (min-width:1024px){
 	.textarea__1916554__ {}
 	.textarea__1916554__ p {margin:0; font-size:18px; max-width:474px; text-align: left; line-height:1.7em;}
-	.textarea__1916554__ p  b{color: #f5822a}
+	.textarea__1916554__ p  b{color: #b86a3c}
 }
 
 /*     1916674 : 공백      */
@@ -107,9 +107,9 @@
 
 /*     1916714 : 제목&내용 가로형      */
 .text_horizontal__1916714__ .title__1916714__ {
-	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#f5822a;line-height:1.5em;letter-spacing:0;
+	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#b86a3c;line-height:1.5em;letter-spacing:0;
 }
-.text_horizontal__1916714__ .text__1916714__ {margin:0;padding:0;font-size:18px;color:#1c1c1c;line-height:1.5em;letter-spacing:0; font-weight: bold;}
+.text_horizontal__1916714__ .text__1916714__ {margin:0;padding:0;font-size:18px;color:#2b2724;line-height:1.5em;letter-spacing:0; font-weight: bold;}
 
 .text_horizontal__1916714__ .text__1916714__ span{letter-spacing: -.03em;}
 
@@ -163,10 +163,10 @@
 .text_list__1916754__ ul li:first-child {margin-top:0}
 .text_list__1916754__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916754__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916754__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916754__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -194,7 +194,7 @@
 
 /*     1920464 : 제목&내용 가로형      */
 .text_horizontal__1920464__ .title__1920464__ {
-	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#1c1c1c;line-height:1.5em;letter-spacing:0;
+	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#2b2724;line-height:1.5em;letter-spacing:0;
 }
 .text_horizontal__1920464__ .text__1920464__ {margin:0;padding:0;font-size:18px;color:#343434;line-height:1.5em;letter-spacing:0}
 
@@ -239,10 +239,10 @@
 .text_list__1920474__ ul li:first-child {margin-top:0}
 .text_list__1920474__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1920474__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1920474__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1920474__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -270,7 +270,7 @@
 
 /*     1916724 : 제목&내용 가로형      */
 .text_horizontal__1916724__ .title__1916724__ {
-	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#1c1c1c;line-height:1.5em;letter-spacing:0;
+	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#2b2724;line-height:1.5em;letter-spacing:0;
 }
 .text_horizontal__1916724__ .text__1916724__ {margin:0;padding:0;font-size:18px;color:#343434;line-height:1.5em;letter-spacing:0}
 
@@ -315,10 +315,10 @@
 .text_list__1916784__ ul li:first-child {margin-top:0}
 .text_list__1916784__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916784__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916784__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing:-.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing:-.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916784__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -346,7 +346,7 @@
 
 /*     1916804 : 제목&내용 가로형      */
 .text_horizontal__1916804__ .title__1916804__ {
-	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#1c1c1c;line-height:1.5em;letter-spacing:0;
+	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#2b2724;line-height:1.5em;letter-spacing:0;
 }
 .text_horizontal__1916804__ .text__1916804__ {margin:0;padding:0;font-size:18px;color:#343434;line-height:1.5em;letter-spacing:0}
 
@@ -391,10 +391,10 @@
 .text_list__1916834__ ul li:first-child {margin-top:0}
 .text_list__1916834__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916834__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916834__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916834__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -424,10 +424,10 @@
 .text_list__1916824__ ul li:first-child {margin-top:0}
 .text_list__1916824__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916824__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916824__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916824__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -455,7 +455,7 @@
 
 /*     1916854 : 제목&내용 가로형      */
 .text_horizontal__1916854__ .title__1916854__ {
-	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#1c1c1c;line-height:1.5em;letter-spacing:0;
+	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#2b2724;line-height:1.5em;letter-spacing:0;
 }
 .text_horizontal__1916854__ .text__1916854__ {margin:0;padding:0;font-size:18px;color:#343434;line-height:1.5em;letter-spacing:0}
 
@@ -500,10 +500,10 @@
 .text_list__1916874__ ul li:first-child {margin-top:0}
 .text_list__1916874__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916874__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916874__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d; letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724; letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916874__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -531,7 +531,7 @@
 
 /*     1916894 : 제목&내용 가로형      */
 .text_horizontal__1916894__ .title__1916894__ {
-	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#1c1c1c;line-height:1.5em;letter-spacing:0;
+	margin:0 0 5px;padding:0;font-size:18px;font-weight:bold;color:#2b2724;line-height:1.5em;letter-spacing:0;
 }
 .text_horizontal__1916894__ .text__1916894__ {margin:0;padding:0;font-size:18px;color:#343434;line-height:1.5em;letter-spacing:0}
 
@@ -576,10 +576,10 @@
 .text_list__1916914__ ul li:first-child {margin-top:0}
 .text_list__1916914__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916914__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916914__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing: -.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916914__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
@@ -609,10 +609,10 @@
 .text_list__1916924__ ul li:first-child {margin-top: 10px;}
 .text_list__1916924__ ul li span {
 	display:table-cell;padding-right:10px;
-	font-family:NanumGothic;font-weight:normal;color:#f5822a;vertical-align:top}
+	font-family:'Pretendard Variable','Pretendard',NanumGothic;font-weight:normal;color:#b86a3c;vertical-align:top}
 .text_list__1916924__ span:before {content:'\e60b';font-family:"icomoon_text_list"}
 .text_list__1916924__ ul li p {
-	display:table-cell;font-weight:normal;color:#2d2d2d;letter-spacing:-.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
+	display:table-cell;font-weight:normal;color:#2b2724;letter-spacing:-.03em; line-height: 1.6em; vertical-align:middle; word-break: keep-all;
 }
 
 .text_list__1916924__.s_size_75 ul li span {padding-right:.5em;font-size:.75em}
