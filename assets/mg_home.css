@@ -49,7 +49,7 @@
   .mg-hero__desc{font-size:15.5px;line-height:1.85;margin-top:16px}
   .mg-hero__desc br{display:none}
   .mg-hero__btns{margin-top:28px}
-  .mg-hero__btns .mg-btn{flex:1;height:52px;padding:0 18px;font-size:15px}
+  .mg-hero__btns .mg-btn{flex:1 1 auto;min-height:50px;padding:0 18px;font-size:15px}
   .mg-hero__ctrl{position:absolute;top:calc(var(--header-h) + 18px);bottom:auto}
   .mg-hero__ctrl .mg-wrap{padding:0 32px}
   .mg-hero__num{color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.25)}
@@ -129,3 +129,23 @@
 .mg-voucher__wee{height:34px;width:auto;margin-top:28px;display:block;opacity:.9}
 @media (max-width:1023px){.mg-voucher{grid-template-columns:1fr;gap:40px}}
 @media (max-width:767px){.mg-voucher__list{grid-template-columns:1fr;gap:10px}.mg-voucher__list a{min-height:0;padding:18px 20px;border-radius:18px;gap:6px}.mg-voucher__list a small{font-size:15px}.mg-voucher__list a b{font-size:17px;align-items:center}}
+
+/* 휴대폰 제목 크기 (v5) */
+@media (max-width:767px){
+  .mg-hero h1,.mg-hero__title{font-size:26px;line-height:1.4}
+  .mg-intro__quote{font-size:20px;line-height:1.6}
+  .mg-program__body h3,.mg-care__body h3,.mg-programs h3{font-size:18px!important}
+  .mg-intro__links b{font-size:16.5px}
+  .mg-voucher__list a b{font-size:16px}
+}
+
+@media (max-width:767px){
+  .mg-hero h1,.mg-hero__title{font-size:clamp(22px,6.6vw,25px)}
+}
+@media (max-width:767px){
+  .mg-hero__btns{flex-direction:column;gap:10px}
+  .mg-hero__btns .mg-btn{width:100%}
+}
+@media (max-width:359px){
+  .mg-intro__quote{font-size:18.5px}
+}
